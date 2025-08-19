@@ -62,7 +62,7 @@ class Parser:
         """
         Converts each page of a PDF to an image encoded in Base64.
         Returns:
-            A list of Base64-encoded strings representing the images of each page of the PDF.
+            A list of Base64-encoded strings representing the image versions pf pages of the PDF.
         """
 
         # Iterate over pages and convert them to images
